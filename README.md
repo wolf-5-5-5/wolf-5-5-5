@@ -27,40 +27,21 @@ Desenvolvedor independente com foco em soluções web completas. esse perfil ser
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-#### Frontend
-![HTML](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-html.svg)
-![CSS](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-css.svg)
-![Tailwind CSS](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-tailwind.svg)
-![JavaScript](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-javascript.svg)
-![TypeScript](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-typescript.svg)
-![React](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-react.svg)
-![Next.js](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-nextjs.svg)
+| **Frontend** | **Backend** |
+| :---: | :---: |
+| ![HTML](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-html.svg) ![CSS](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-css.svg) ![Tailwind CSS](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-tailwind.svg) | ![c#](https://kitsune-free.vercel.app/api/svg/badges/tecnologias/badge-csharp.svg) ![nodejs](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-nodejs.svg) ![Express](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-express.svg) |
+| ![JavaScript](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-javascript.svg) ![TypeScript](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-typescript.svg) ![React](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-react.svg) ![Next.js](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-nextjs.svg) | ![python](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-python.svg) ![php](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-php.svg) |
 
-#### Backend
-![c#](https://kitsune-free.vercel.app/api/svg/badges/tecnologias/badge-csharp.svg)
-![nodejs](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-nodejs.svg)
-![Express](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-express.svg)
-![python](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-python.svg)
-![php](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-php.svg)
+<br>
 
-#### Databases & Cloud
-![aws](https://kitsune-free.vercel.app/api/svg/badges/tecnologias/badge-aws.svg)
-![sql](https://kitsune-free.vercel.app/api/svg/badges/skills/langs/badge-sql.svg)
-![firebase](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-firebase.svg)
-![supabase](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-supabase.svg)
-
-#### DevOps & Tools
-![Vercel](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-vercel.svg)
-![Cloudflare](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-cloudflare.svg)
-![Linux](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-linux.svg)
-![vscode](https://kitsune-free.vercel.app/api/svg/badges/tecnologias/badge-vscode.svg)
-![Git](https://kitsune-free.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
-![GitHub](https://kitsune-free.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
-![Docker](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-docker.svg)
+| **Databases & Cloud** | **DevOps & Tools** |
+| :---: | :---: |
+| ![aws](https://kitsune-free.vercel.app/api/svg/badges/tecnologias/badge-aws.svg) ![sql](https://kitsune-free.vercel.app/api/svg/badges/skills/langs/badge-sql.svg) | ![Vercel](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-vercel.svg) ![Cloudflare](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-cloudflare.svg) ![Docker](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-docker.svg) |
+| ![firebase](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-firebase.svg) ![supabase](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-supabase.svg) | ![Linux](https://kitsune-free.vercel.app/api/svg/badges/skills/badge-linux.svg) ![vscode](https://kitsune-free.vercel.app/api/svg/badges/tecnologias/badge-vscode.svg) ![Git](https://kitsune-free.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg) ![GitHub](https://kitsune-free.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg) |
 
 </div>
 
@@ -71,10 +52,10 @@ Desenvolvedor independente com foco em soluções web completas. esse perfil ser
 <div align="center">
 
 <a href="https://kitsune-free.vercel.app">
-  <img src="https://kitsune-free.vercel.app/api/github-stats/florest-555?theme=midnight&compat=github" width="400" alt="Estatísticas">
+  <img src="https://kitsune-free.vercel.app/api/github-stats/florest-555?theme=aurora&compat=github" width="400" alt="Estatísticas">
 </a>
 <a href="https://kitsune-free.vercel.app">
-  <img src="https://kitsune-free.vercel.app/api/github-langs/florest-555?theme=midnight&compat=github" width="400" alt="Linguagens">
+  <img src="https://kitsune-free.vercel.app/api/github-langs/florest-555?theme=aurora&compat=github" width="400" alt="Linguagens">
 </a>
 
 </div>
