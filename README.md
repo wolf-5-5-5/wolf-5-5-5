@@ -42,10 +42,10 @@ Desenvolvedor independente com foco em soluções web completas. esse perfil ser
 <div align="center">
 
 <a href="https://kitsune-gallery.vercel.app">
-  <img src="https://kitsune-gallery.vercel.app/api/github-stats/wolf-5-5-5?theme=dark&compat=github" width="400" alt="Estatísticas">
+  <img src="https://kitsune-gallery.vercel.app/api/github-stats/lopos-5-5-5?theme=dark&compat=github" width="400" alt="Estatísticas">
 </a>
 <a href="https://kitsune-gallery.vercel.app">
-  <img src="https://kitsune-gallery.vercel.app/api/github-langs/wolf-5-5-5?theme=dark&compat=github" width="400" alt="Linguagens">
+  <img src="https://kitsune-gallery.vercel.app/api/github-langs/lopos-5-5-5?theme=dark&compat=github" width="400" alt="Linguagens">
 </a>
 
 </div>
@@ -54,7 +54,7 @@ Desenvolvedor independente com foco em soluções web completas. esse perfil ser
 
 <div align="center">
 
-![Visitors](https://kitsune-gallery.vercel.app/api/visitors/wolf-5-5-5/badge.svg?label=visitors&labelColor=000000&valueColor=dc143c)
+![Visitors](https://kitsune-gallery.vercel.app/api/visitors/lopos-5-5-5/badge.svg?label=visitors&labelColor=000000&valueColor=dc143c)
 
 </div>
 
